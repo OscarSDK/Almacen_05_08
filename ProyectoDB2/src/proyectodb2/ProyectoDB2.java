@@ -20,9 +20,20 @@ public class ProyectoDB2 {
         //-----------  OSCAR------------
         String oscar="oscar";
         System.out.println("el valor es: "+oscar);
+
         //-----------ARIANA------------
         String Ariana="Ari";
         System.out.println("el valor es: "+Ariana);
+
+        //-----------ALEJANDRA-------
+        String Alejandra="Alejandra";
+        System.out.println("el valor es: "+Alejandra);
+        //-----------  LENINN------------
+        String leninn="leninn";
+        System.out.println("el valor es: "+leninn);
+        
+        
+
         
     }
     
