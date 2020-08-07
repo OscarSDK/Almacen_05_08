@@ -15,16 +15,11 @@ public class ProyectoDB2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int x=2;
-        System.out.println("el valor es: "+x);
-        System.out.println("el valor nuevo es: "+x);
-        System.out.println("el valor nuevo 1 es: "+x);
-        System.out.println("el valor nuevo 2 es: "+x);
-        int y=3;
-        System.out.println("el valor de y es: "+y);
-        //ya agregue mi parte de codigo
-        int z=4;
-        System.out.println("el valor de y es: "+z);
+        
+        
+        //-----------  OSCAR------------
+        String oscar="oscar";
+        System.out.println("el valor es: "+oscar);
         
         
     }
