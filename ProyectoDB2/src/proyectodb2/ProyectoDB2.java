@@ -22,6 +22,10 @@ public class ProyectoDB2 {
         System.out.println("el valor nuevo 2 es: "+x);
         int y=3;
         System.out.println("el valor de y es: "+y);
+        //ya agregue mi parte de codigo
+        int z=4;
+        System.out.println("el valor de y es: "+z);
+        
         
     }
     
