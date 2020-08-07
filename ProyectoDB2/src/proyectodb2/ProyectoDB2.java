@@ -23,6 +23,9 @@ public class ProyectoDB2 {
         //-----------ALEJANDRA-------
         String Alejandra="Alejandra";
         System.out.println("el valor es: "+Alejandra);
+        //-----------  LENINN------------
+        String leninn="leninn";
+        System.out.println("el valor es: "+leninn);
         
         
         
