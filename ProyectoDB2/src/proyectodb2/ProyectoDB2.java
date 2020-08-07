@@ -20,6 +20,8 @@ public class ProyectoDB2 {
         System.out.println("el valor nuevo es: "+x);
         System.out.println("el valor nuevo 1 es: "+x);
         System.out.println("el valor nuevo 2 es: "+x);
+        int y=3;
+        System.out.println("el valor de y es: "+y);
         
     }
     
