@@ -17,9 +17,9 @@ public class ProyectoDB2 {
     public static void main(String[] args) {
         int x=2;
         System.out.println("el valor es: "+x);
-        System.out.println("el valor nuevo es: "+x);
-        System.out.println("el valor nuevo 1 es: "+x);
-        System.out.println("el valor nuevo 2 es: "+x);
+        System.out.println("el valor nuevo es: "+(x+1));
+        System.out.println("el valor nuevo 1 es: "+(x+2));
+        System.out.println("el valor nuevo 2 es: "+(x+3));
         
     }
     
