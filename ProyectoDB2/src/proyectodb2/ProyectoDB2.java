@@ -36,6 +36,10 @@ public class ProyectoDB2 {
         String Lida="Lida";
         System.out.println("el valor es: "+Lida);
         
+        //********Luz Allison*********
+        String Allison="Allison";
+        System.out.println("el valor es:"+Allison);
+        
     }
     
 }
