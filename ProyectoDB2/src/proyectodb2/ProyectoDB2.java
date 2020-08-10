@@ -40,6 +40,10 @@ public class ProyectoDB2 {
         String Allison="Allison";
         System.out.println("el valor es:"+Allison);
         
+            //********Leonis*********
+        String Leonis="Leonis";
+        System.out.println("el valor es:"+Leonis);
+        
     }
     
 }
